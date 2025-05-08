@@ -1,0 +1,28 @@
+.tile-board {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    align-items: center;
+  }
+  
+  .tile-row {
+    display: grid;
+    grid-template-columns: repeat(5, 50px);
+    gap: 10px;
+  }
+  
+  .tile {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #ccc;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+  }
+  
