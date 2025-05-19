@@ -49,7 +49,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Bootleg Wordle!</p>
+        <p>Worlde Replica!</p>
       </header>
 
       {randomWord && (
