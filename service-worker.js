@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Worlde-Style-Game/precache-manifest.1cb8d3223923b92a2d541ec231244d95.js"
+  "/Worlde-Style-Game/precache-manifest.9c303464fbb376f15fcc838e95aedb16.js"
 );
 
 self.addEventListener('message', (event) => {

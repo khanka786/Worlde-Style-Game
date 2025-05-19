@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "618265529d8c6fec8dff180f23c2f8b3",
+    "revision": "47df0dacf9e660e8e09135069fbf0418",
     "url": "/Worlde-Style-Game/index.html"
   },
   {
-    "revision": "a95b91947243c80e5375",
+    "revision": "aa285a87bdbe635b800d",
     "url": "/Worlde-Style-Game/static/css/main.4039770b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Worlde-Style-Game/static/js/2.c5cb5402.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a95b91947243c80e5375",
-    "url": "/Worlde-Style-Game/static/js/main.e7e42ee7.chunk.js"
+    "revision": "aa285a87bdbe635b800d",
+    "url": "/Worlde-Style-Game/static/js/main.15320cf6.chunk.js"
   },
   {
     "revision": "c8499d3326422f796667",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Worlde-Style-Game/static/css/main.4039770b.chunk.css",
-    "main.js": "/Worlde-Style-Game/static/js/main.e7e42ee7.chunk.js",
-    "main.js.map": "/Worlde-Style-Game/static/js/main.e7e42ee7.chunk.js.map",
+    "main.js": "/Worlde-Style-Game/static/js/main.15320cf6.chunk.js",
+    "main.js.map": "/Worlde-Style-Game/static/js/main.15320cf6.chunk.js.map",
     "runtime-main.js": "/Worlde-Style-Game/static/js/runtime-main.3c7226d9.js",
     "runtime-main.js.map": "/Worlde-Style-Game/static/js/runtime-main.3c7226d9.js.map",
     "static/js/2.c5cb5402.chunk.js": "/Worlde-Style-Game/static/js/2.c5cb5402.chunk.js",
     "static/js/2.c5cb5402.chunk.js.map": "/Worlde-Style-Game/static/js/2.c5cb5402.chunk.js.map",
     "index.html": "/Worlde-Style-Game/index.html",
-    "precache-manifest.1cb8d3223923b92a2d541ec231244d95.js": "/Worlde-Style-Game/precache-manifest.1cb8d3223923b92a2d541ec231244d95.js",
+    "precache-manifest.9c303464fbb376f15fcc838e95aedb16.js": "/Worlde-Style-Game/precache-manifest.9c303464fbb376f15fcc838e95aedb16.js",
     "service-worker.js": "/Worlde-Style-Game/service-worker.js",
     "static/css/main.4039770b.chunk.css.map": "/Worlde-Style-Game/static/css/main.4039770b.chunk.css.map",
     "static/js/2.c5cb5402.chunk.js.LICENSE.txt": "/Worlde-Style-Game/static/js/2.c5cb5402.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3c7226d9.js",
     "static/js/2.c5cb5402.chunk.js",
     "static/css/main.4039770b.chunk.css",
-    "static/js/main.e7e42ee7.chunk.js"
+    "static/js/main.15320cf6.chunk.js"
   ]
 }
