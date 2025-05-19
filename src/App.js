@@ -14,7 +14,7 @@ function App() {
 
   // Load a random 5-letter word
   const getNewRandomWord = () => {
-    fetch('/words.txt')
+    fetch(process.env.PUBLIC_URL + '/words.txt')
       .then((res) => res.text())
       .then((text) => {
         const words = text
@@ -27,7 +27,8 @@ function App() {
         } else {
           console.error('No valid words found.');
         }
-      });
+      })
+       .catch(err => console.error('Error loading words:', err));
   };
 
   // Initial word load
